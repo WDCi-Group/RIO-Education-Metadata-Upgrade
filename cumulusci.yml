@@ -7,13 +7,13 @@ project:
         api_version: '58.0'
     git:
         prefix_release: rel/
-        repo_url: https://github.com/wdci-dev/RIO-Education-Metadata-Upgrade
+        repo_url: https://github.com/WDCi-Group/RIO-Education-Metadata-Upgrade
         default_branch: master
     source_format: sfdx
 
 sources:
     latest_release:
-        github: https://github.com/wdci-dev/RIO-Education-Metadata-Upgrade
+        github: https://github.com/WDCi-Group/RIO-Education-Metadata-Upgrade
         release: latest
 
 tasks:
